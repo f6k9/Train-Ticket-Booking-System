@@ -1,0 +1,49 @@
+Train Train001 with capacity 5 has been added.
+Passenger Fatima (ID: P001) has been added to the system.
+Passenger Ali (ID: P002) has been added to the system.
+Passenger Aisha (ID: P003) has been added to the system.
+Passenger Khalid (ID: P004) has been added to the system.
+Passenger Mohammed (ID: P005) has been added to the system.
+Passenger Sara (ID: P006) has been added to the system.
+Passenger Omar (ID: P007) has been added to the system.
+Passenger Layla (ID: P008) has been added to the system.
+Passenger Ahmed (ID: P009) has been added to the system.
+Passenger Yasmin (ID: P010) has been added to the system.
+Booking confirmed for Passenger Fatima (ID: P001).
+Booking confirmed for Passenger Ali (ID: P002).
+Booking confirmed for Passenger Aisha (ID: P003).
+Booking confirmed for Passenger Khalid (ID: P004).
+Booking confirmed for Passenger Mohammed (ID: P005).
+No seats for Sara (ID: P006), added to waiting list.
+No seats for Omar (ID: P007), added to waiting list.
+Booking cancelled for Passenger Aisha (ID: P003).
+Booking confirmed for Passenger Sara (ID: P006).
+------------------WAITING PASSENGER--------------------
+| Passenger ID    | Name            | Train ID        |
+| --------------- | --------------- | --------------- |
+| P007            | Omar            | Train001        |
+------------------CONFIRMED PASSENGER------------------
+| Passenger ID    | Name            | Train ID        |
+| --------------- | --------------- | --------------- |
+| P006            | Sara            | Train001        |
+| P005            | Mohammed        | Train001        |
+| P004            | Khalid          | Train001        |
+| P002            | Ali             | Train001        |
+| P001            | Fatima          | Train001        |
+Booking cancelled for Passenger Mohammed (ID: P005).
+Booking confirmed for Passenger Omar (ID: P007).
+No seats for Ahmed (ID: P009), added to waiting list.
+No seats for Yasmin (ID: P010), added to waiting list.
+------------------WAITING PASSENGER--------------------
+| Passenger ID    | Name            | Train ID        |
+| --------------- | --------------- | --------------- |
+| P009            | Ahmed           | Train001        |
+| P010            | Yasmin          | Train001        |
+------------------CONFIRMED PASSENGER------------------
+| Passenger ID    | Name            | Train ID        |
+| --------------- | --------------- | --------------- |
+| P007            | Omar            | Train001        |
+| P006            | Sara            | Train001        |
+| P004            | Khalid          | Train001        |
+| P002            | Ali             | Train001        |
+| P001            | Fatima          | Train001        |

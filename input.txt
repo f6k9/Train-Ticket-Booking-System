@@ -1,0 +1,26 @@
+add_train Train001 5
+add_passenger P001 Fatima
+add_passenger P002 Ali
+add_passenger P003 Aisha
+add_passenger P004 Khalid
+add_passenger P005 Mohammed
+add_passenger P006 Sara
+add_passenger P007 Omar
+add_passenger P008 Layla
+add_passenger P009 Ahmed
+add_passenger P010 Yasmin
+book P001 Train001
+book P002 Train001
+book P003 Train001
+book P004 Train001
+book P005 Train001
+book P006 Train001
+book P007 Train001
+cancel P003 Train001
+show_waiting
+show_confirmed
+cancel P005 Train001
+book P009 Train001
+book P010 Train001
+show_waiting
+show_confirmed
